@@ -48,3 +48,11 @@ Email address: arunsahu159@gmail.com
 ![image_306_pred_1_gt_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/6810a62a-76f0-4491-b1a7-34ecdf0d0718)
 
 ### Achieved results on test dataset:
+
+![1_pred_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/3673f1ba-8dd2-43f6-a4ec-6090f30e9a07)
+![178_pred_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/5234aaaa-95da-4afc-a682-ba44eaffaa8e)
+![211_pred_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/493016da-46f1-4c39-a9f5-0551ec0faa01)
+![235_pred_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/65d0bb50-b0dc-4571-8e90-f5d18d43c13c)
+![289_pred_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/8edb4895-8179-4576-92bb-694fae79f910)
+
+
