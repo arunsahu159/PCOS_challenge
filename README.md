@@ -2,7 +2,14 @@
 Classification of Poly cystic ovary syndrome images.
  ## Dataset
   The dataset used for training the classification model can be obtained from the following source: [PCOS classification Dataset (PCOS_dataset)](https://zenodo.org/records/10430727). The dataset was first pre-processed and images were segregated into their respective classes. Then these images were augmented to increase the dataset size. The augmented dataset was then split into train and validation in 80:20 ratio.
+ ## How to run
 
+Clone this repository to your local machine
+```bash
+git clone <>
+cd PCOS_challenge
+python train.py
+```
 
 # Team name: Arun Ranjan Sahu
 Contact Number: 9679166756 <br>
