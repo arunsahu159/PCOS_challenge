@@ -26,3 +26,20 @@ Email address: arunsahu159@gmail.com
     | Accuracy  |84.28   |
     | Precision |100.00  |
     | Recall    |91.99   |
+
+- #### Pictures of 5 best frames selected from validation dataset
+- 
+![image_12_pred_0_gt_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/84224589-01c9-47c1-99c1-1c86260e8916)
+![image_31_pred_0_gt_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/73ee7248-ce6a-47d7-af52-a329705933aa)
+![image_254_pred_1_gt_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/5a113ea3-c806-4e30-a55f-e622fea1eabb)
+![image_299_pred_1_gt_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/0da56c02-03af-47a0-8284-d8672c5ed5fc)
+![image_306_pred_1_gt_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/956b10d4-365a-4ba3-a3c3-a935979b68c4)
+- ### Picture of achieved interpretability plots from validation dataset
+ 
+![image_12_pred_0_gt_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/7b01fec3-ad6a-4f7b-982a-7d1b54cec8bd)
+![image_31_pred_0_gt_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/bff1672b-93f7-4d6b-944c-55b16a2d15e2)
+![image_254_pred_1_gt_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/e6e18ce6-8673-4728-8435-bf94ddafc082)
+![image_299_pred_1_gt_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/2a35adb7-d23c-4bcb-8b78-96e5982700bf)
+![image_306_pred_1_gt_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/6810a62a-76f0-4491-b1a7-34ecdf0d0718)
+
+### Achieved results on test dataset:
