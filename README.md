@@ -18,9 +18,11 @@ Email address: arunsahu159@gmail.com
 - As an example, the first convolutional block is depicted in Fig. 2. Such five convolutional blocks were utilized with various parameters.
 ![modeL](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/6d4219b3-9cdc-4d62-b73e-4875a710389c) <p align="center"> **Figure 1.** </p>
 
-![Model_diagram](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/3ad638ca-1d69-4490-9263-bbc1a2fd4c70) <p align="center"> **Figure 2.** </p>
+![modeL-2](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/4e6b82d3-36ae-4e86-8da1-30a3a09c21a5) <p align="center"> **Figure 2.** </p>
 
  ### Achieved results on validation dataset:
+
+ 
  -  | Metric    | value  |
     |-----------|------  |
     | Accuracy  |84.28   |
@@ -28,13 +30,16 @@ Email address: arunsahu159@gmail.com
     | Recall    |91.99   |
 
 - #### Pictures of 5 best frames selected from validation dataset
-- 
+
 ![image_12_pred_0_gt_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/84224589-01c9-47c1-99c1-1c86260e8916)
 ![image_31_pred_0_gt_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/73ee7248-ce6a-47d7-af52-a329705933aa)
 ![image_254_pred_1_gt_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/5a113ea3-c806-4e30-a55f-e622fea1eabb)
 ![image_299_pred_1_gt_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/0da56c02-03af-47a0-8284-d8672c5ed5fc)
 ![image_306_pred_1_gt_1](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/956b10d4-365a-4ba3-a3c3-a935979b68c4)
+
+
 - ### Picture of achieved interpretability plots from validation dataset
+
  
 ![image_12_pred_0_gt_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/7b01fec3-ad6a-4f7b-982a-7d1b54cec8bd)
 ![image_31_pred_0_gt_0](https://github.com/arunsahu159/PCOS_challenge/assets/61779161/bff1672b-93f7-4d6b-944c-55b16a2d15e2)
